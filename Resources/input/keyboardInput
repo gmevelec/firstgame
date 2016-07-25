@@ -1,0 +1,5 @@
+forward	=>	W
+back	=>	S
+right	=>	D
+left	=>	A
+jump	=>	Space

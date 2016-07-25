@@ -1,0 +1,45 @@
+-----------------------------START-----------------------------
+[37m[INFO]		2016-07-19 14:18:03	MainGame*	Initializing SDL[0m
+[37m[INFO]		2016-07-19 14:18:03	MainGame*	Creating OpenGL context[0m
+[37m[INFO]		2016-07-19 14:18:03	MainGame*	OpenGL version: 4.1 NVIDIA-10.10.10 310.42.25f01[0m
+[37m[INFO]		2016-07-19 14:18:03	MainGame*	GLSL version: 4.10[0m
+[37m[INFO]		2016-07-19 14:18:03	MainGame*	Vendor: NVIDIA Corporation[0m
+[37m[INFO]		2016-07-19 14:18:03	MainGame*	Renderer: NVIDIA GeForce GTX 660M OpenGL Engine[0m
+[32m[FINE]		2016-07-19 14:18:03	MainGame*	SDL and OpenGL has been correctly initialized[0m
+[37m[INFO]		2016-07-19 14:18:03	OBJLoader	Loading OBJ file: Resources/models/person/person.obj[0m
+[37m[INFO]		2016-07-19 14:18:03	OBJLoader	Loading OBJ file: Resources/models/human/Girl/girl2.obj[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/shader.vs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/shader.fs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/terrainshader.vs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/terrainshader.fs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/skyboxshader.vs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/skyboxshader.fs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/normalmapshader.vs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/normalmapshader.fs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/shadowshader.vs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/shadowshader.fs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/particleshader.vs[0m
+[37m[INFO]		2016-07-19 14:18:03	ShaderProgram*	Loading shader file: ./Resources/shaders/particleshader.fs[0m
+[37m[INFO]		2016-07-19 14:18:03	OBJLoader	Loading OBJ file: Resources/models/tree/pine.obj[0m
+[37m[INFO]		2016-07-19 14:18:04	OBJLoader	Loading OBJ file: Resources/models/box/box.obj[0m
+[37m[INFO]		2016-07-19 14:18:04	OBJLoader	Loading OBJ file: Resources/models/barrel/barrel.obj[0m
+[37m[INFO]		2016-07-19 14:18:04	OBJLoader	Loading OBJ file: Resources/models/crate/crate.obj[0m
+[37m[INFO]		2016-07-19 14:18:04	OBJLoader	Loading OBJ file: Resources/models/boulder/boulder.obj[0m
+[37m[INFO]		2016-07-19 14:18:04	ShaderProgram*	Loading shader file: ./Resources/shaders/guishader.vs[0m
+[37m[INFO]		2016-07-19 14:18:04	ShaderProgram*	Loading shader file: ./Resources/shaders/guishader.fs[0m
+[37m[INFO]		2016-07-19 14:18:04	ShaderProgram*	Loading shader file: ./Resources/shaders/watershader.vs[0m
+[37m[INFO]		2016-07-19 14:18:04	ShaderProgram*	Loading shader file: ./Resources/shaders/watershader.fs[0m
+[32m[FINE]		2016-07-19 14:18:04	MainGame*	Finished loading. Spent 761ms[0m
+[33m[WARNING]	2016-07-19 14:18:04	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:04	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:04	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:04	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:22	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:22	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:26	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:29	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:30	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:30	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:30	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+[33m[WARNING]	2016-07-19 14:18:31	InputManager*	Can't handle that request. Need a new InputManager. type = 512[0m
+------------------------------END------------------------------
